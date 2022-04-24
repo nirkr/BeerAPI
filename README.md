@@ -13,12 +13,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The application contains the followiung concepts
 
-- Functional components
+- Functional components:
 - Custom hook, for fetching the data from the API
 - Using Material UI components & its unique css inner styling
 - CSS modules
 - Size adjustable grid - adjusted to desktop/mobile views
 - isLoading state management & loading bar - for initial load & load more operation
 
-* Pay attention that there is no handling of last page of the pagination.(so there will be always LoadMore link & logics)
+* Pay attention that there is no handling of last page of the pagination.(so there will be always LoadMore link & logics).
   The API doesn't response the total amount of response pages
