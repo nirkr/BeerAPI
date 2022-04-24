@@ -19,3 +19,6 @@ The application contains the followiung concepts
 - CSS modules
 - Size adjustable grid - adjusted to desktop/mobile views
 - isLoading state management & loading bar - for initial load & load more operation
+
+* Pay attention that there is no handling of last page of the pagination.(so there will be always LoadMore link & logics)
+  The API doesn't response the total amount of response pages
